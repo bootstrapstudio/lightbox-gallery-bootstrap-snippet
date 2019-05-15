@@ -2,9 +2,9 @@
 
 [![Bootstrap Freebies](/readme-images/github-bootstrap-freebies.png)](https://github.com/topics/bootstrap-freebies/) 
 
-**Lightbox gallery snippet** made with Bootstrap 4 and [lightbox.js](https://lokeshdhakar.com/projects/lightbox2/). It has a beautiful minimalistic design with image thumbnails in a grid. Thanks to the lightbox JavaScript plugin, users can click on images to zoom in and look through the photos in greater detail. [See a live demo here &raquo;](https://epicbootstrap.com/snippets/lightbox-gallery)
+**Lightbox gallery snippet** made with Bootstrap 4 and [lightbox.js](https://lokeshdhakar.com/projects/lightbox2/). It has a beautiful minimalistic design with image thumbnails in a grid. Thanks to the lightbox JavaScript plugin, users can click on images to zoom in and look through the photos in greater detail. [Get it in Bootstrap Studio &raquo;](https://bootstrapstudio.io)
 
-[![Lightbox Gallery](/readme-images/screenshot.png)](https://epicbootstrap.com/snippets/lightbox-gallery) 
+[![Lightbox Gallery](/readme-images/screenshot.png)](https://bootstrapstudio.io) 
 
 ## Features
 
